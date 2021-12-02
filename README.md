@@ -18,4 +18,4 @@ présent dans une image. Le modèle localisera l'objet dans l'image en utilisant
 cette méthode.
 Pour cela, j'ai utilisé google collab,et j'ai charger les données en mettant le dossier 
 ZIP des données sur mon drive, et en les chargeant en utilisant le lien de mon 
-drive
+drive.

@@ -1,5 +1,5 @@
 Pour ce projet, nous allons utiliser le modèle Unet (Réseaux convolutifs 
-pour la segmentation d'images biomédicales) :
+pour la segmentation d'images biomédicales).
 Après avoir appliqué les réseaux de neurones convolutifs (CNN) aux problèmes 
 de classification, dans ce projet nous allons l’explorer d’avantage le potentiel de 
 CNN. Outre la classification, CNN est utilisé pour des problèmes plus avancés 
